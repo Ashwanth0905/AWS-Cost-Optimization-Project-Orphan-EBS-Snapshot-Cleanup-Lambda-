@@ -1,7 +1,3 @@
-Got it 👍
-Here’s a **simple, clean, and correct `README.md`** for your repo
-**`AWS-Cost-Optimization-Project-Orphan-EBS-Snapshot-Cleanup-Lambda`**
-
 ---
 
 # AWS Cost Optimization Project – Orphan EBS Snapshot Cleanup using Lambda
